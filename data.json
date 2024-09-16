@@ -1,0 +1,74 @@
+[
+        {
+            "date": "Farvardin",
+            "firstData": "7",
+            "secondData": "10",
+            "thirdData": "9"
+        },
+        {
+            "date": "Ordibehesht",
+            "firstData": "9",
+            "secondData": "3",
+            "thirdData": "4"
+        },
+        {
+            "date": "Khordad",
+            "firstData": "11",
+            "secondData": "15",
+            "thirdData": "13"
+        },
+        {
+            "date": "Tir",
+            "firstData": "14",
+            "secondData": "10",
+            "thirdData": "6"
+        },
+        {
+            "date": "Mordad",
+            "firstData": "6",
+            "secondData": "11",
+            "thirdData": "9"
+        },
+        {
+            "date": "Shahrivar",
+            "firstData": "10",
+            "secondData": "13",
+            "thirdData": "8"
+        },
+        {
+            "date": "Mehr",
+            "firstData": "6",
+            "secondData": "8",
+            "thirdData": "12"
+        },
+        {
+            "date": "Aban",
+            "firstData": "6",
+            "secondData": "3",
+            "thirdData": "10"
+        },
+        {
+            "date": "Azar",
+            "firstData": "6",
+            "secondData": "7",
+            "thirdData": "3"
+        },
+        {
+            "date": "Dey",
+            "firstData": "6",
+            "secondData": "14",
+            "thirdData": "11"
+        },
+        {
+            "date": "Bahman",
+            "firstData": "14",
+            "secondData": "8",
+            "thirdData": "7"
+        },
+        {
+            "date": "Esfand",
+            "firstData": "13",
+            "secondData": "9",
+            "thirdData": "6"
+        }
+    ]
